@@ -10,6 +10,7 @@ public class NStudents
         n = sc.nextInt();
         int s[] = new int[n];
 
+        System.out.println("Enter The Marks: ");
         for(int i=0;i<n;i++)
             s[i] = sc.nextInt();
         
@@ -25,11 +26,15 @@ public class NStudents
             avg+=s[i];
 
             if(s[i]>=40)
+            {
                 a++;
-            else if(s[i]>=75)
-                b++;
+                if(s[i]>=75)
+                    b++;
+            }
             else
+            {
                 c++;
+            }
         }
 
         System.out.println("Highest Marks: "+mx);
