@@ -19,7 +19,7 @@
 * [Experiment 17]()
 * [Experiment 18](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp10/AbstractArea.java)
 * [Experiment 19](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp11/Marksheet.java)
-* [Experiment 20]()
+* [Experiment 20](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp12/InBuiltException.java)
 * [Experiment 21](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp13/UserDefException.java)
 * [Experiment 22](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp13/PrimeNumException.java)
 * [Experiment 23](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp14/SmileyEmoji.java)
