@@ -11,12 +11,12 @@
 * [Experiment 9](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp4/MethodOverloading.java)
 * [Experiment 10](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp4/ConstructorOverloading.java)
 * [Experiment 11](https://github.com/YashrajSwamy/OOPM-Lab/tree/main/Exp5)
-* [Experiment 12]()
-* [Experiment 13]()
+* [Experiment 12](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp6/BinarySearch.java)
+* [Experiment 13](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp6/MatrixMultiplier.java)
 * [Experiment 14](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp7/Occurrence.java)
 * [Experiment 15](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp7/VowelCounter.java)
 * [Experiment 16](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp8/RevSentence.java)
-* [Experiment 17]()
+* [Experiment 17](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp9/Marksheet.java)
 * [Experiment 18](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp10/AbstractArea.java)
 * [Experiment 19](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp11/Marksheet.java)
 * [Experiment 20](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp12/InBuiltException.java)
@@ -24,4 +24,4 @@
 * [Experiment 22](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp13/PrimeNumException.java)
 * [Experiment 23](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp14/SmileyEmoji.java)
 * [Experiment 24]()
-## Experiments To Add: 5 8 12 13 17 20 24
+## Experiments To Add: 5 8 24
