@@ -1,6 +1,4 @@
 import javax.swing.*;
-import java.awt.event.*;
-
 
 class LPage extends JFrame
 {
@@ -26,7 +24,7 @@ class LPage extends JFrame
         login = new JButton("Login");
         login.setBounds(200,300,80,30);
         login.addActionListener(e->{
-            if (user.getText().equals("a") && String.valueOf(pass.getPassword()).equals("a")) 
+            if (user.getText().equals("Yashraj") && String.valueOf(pass.getPassword()).equals("171")) 
             {
                 JOptionPane.showMessageDialog(this,"Login Successful\n"+"Welcome "+user.getText(),"Success",JOptionPane.INFORMATION_MESSAGE);
                 this.dispose();
@@ -53,6 +51,7 @@ class LPage extends JFrame
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLayout(null);
         this.setSize(600,600);
+		this.setTitle("Login Page");
         this.setResizable(false);
         this.setVisible(true);
     }
@@ -63,6 +62,5 @@ public class LoginPage
     public static void main(String[] args)
     {
         LPage loginPage = new LPage();
-
     }
 }
