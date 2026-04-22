@@ -1,4 +1,4 @@
-#   __OOPM Experiments__
+#   __OOPM Experiments Performed in SEM-II__
 
 * [Experiment 1](https://raw.githubusercontent.com/YashrajSwamy/OOPM-Lab/refs/heads/main/Exp1/Factorial.java)
 * [Experiment 2](https://github.com/YashrajSwamy/OOPM-Lab/raw/refs/heads/main/Exp1/CountIO.java)
